@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import React from 'react'
 import firebase from '../frebase'
 function login() {
@@ -10,6 +11,8 @@ function login() {
 =======
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> main
 import { useRef } from 'react';
 import React from 'react';
 import {signup}  from '../firebase/init';
@@ -78,5 +81,8 @@ try{
 export default login
 =======
 export default Login
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+>>>>>>> main
+=======
 >>>>>>> main
