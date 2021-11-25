@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 import { useRef } from 'react';
 import React from 'react';
 import {signup}  from '../firebase/init';
@@ -61,4 +59,3 @@ try{
 // }
 
 export default Login
->>>>>>> Stashed changes
